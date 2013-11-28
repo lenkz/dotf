@@ -58,9 +58,9 @@ nnoremap U :syntax sync fromstart<cr>:redraw!<cr>
  
 " Whitespace stuff
 set nowrap
-set tabstop=2
+set tabstop=4
 set shiftwidth=4
-set softtabstop=2
+set softtabstop=4
 set expandtab
 set listchars=tab:▸\ ,eol:¬,trail:·
  
